@@ -166,6 +166,6 @@
 4574|Frankreich
 3780|Italien
 7293|Spanien
-5887|???.01
-2180|???.02
+5887|Andere.01
+2180|Andere.02
 1528|year
