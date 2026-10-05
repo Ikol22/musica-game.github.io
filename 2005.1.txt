@@ -42,7 +42,7 @@ https://open.spotify.com/intl-de/track/0vg4WnUWvze6pBOJDTq99k
 https://open.spotify.com/intl-de/track/36IkR2i4HaV3SRsSHzje6v
 https://open.spotify.com/intl-de/track/06Zz2l7cVTCTgCNDe1bnEF
 https://open.spotify.com/intl-de/track/3KGleEkQDfkpmWFe4qRExi
-https://open.spotify.com/intl-de/track/58HpsDKeYoLtNhXFQyQmz5
+https://open.spotify.com/intl-de/track/35fOoTvFme2VjutXS6G01f
 https://open.spotify.com/intl-de/track/5tFDgH6do20IXdSoNBAmXK
 https://open.spotify.com/intl-de/track/0DLOyyQvwPTSDKuhpzMMwA
 https://open.spotify.com/intl-de/track/1A4WjuUXeFEVXjwgc7eVZ6
@@ -94,3 +94,7 @@ https://open.spotify.com/intl-de/track/0rLzyBecRbTpnBWvMtPVFR
 https://open.spotify.com/intl-de/track/2cTOee6bTauDFK1QuDS1BD
 https://open.spotify.com/intl-de/track/2ZA4uMlSZjaoWGFqP1tsLI
 https://open.spotify.com/intl-de/track/69Rq57lrGf5syykFBNi3g4
+https://open.spotify.com/intl-de/track/22AbXxQbMdVqEz7xJjhccG
+https://open.spotify.com/intl-de/track/3NKrH3UhrvpRa1Efyyi97G
+https://open.spotify.com/intl-de/track/3B7i9OKRRmIsSBHEbJz58Y
+https://open.spotify.com/intl-de/track/1yupbrI7ROhigIHpQBevPh
